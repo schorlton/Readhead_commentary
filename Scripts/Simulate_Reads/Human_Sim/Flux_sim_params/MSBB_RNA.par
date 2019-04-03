@@ -1,0 +1,25 @@
+## File locations
+REF_FILE_NAME   ../../gencode.v29.annotation.gtf
+GEN_DIR         ../../chr/
+
+## Fragmentation
+FRAG_SUBSTRATE	RNA
+FRAG_METHOD	UR
+
+# Reverse Transcription
+RTRANSCRIPTION	YES
+RT_PRIMER	RH
+
+# Size Filtering
+FILTERING 	YES
+SIZE_DISTRIBUTION	N(250,25)
+
+
+## Sequencing
+READ_NUMBER	50000000
+READ_LENGTH	100
+PAIRED_END	NO
+
+#output
+FASTA	true
+ERR_FILE	76

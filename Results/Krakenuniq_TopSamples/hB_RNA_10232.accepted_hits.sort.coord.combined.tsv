@@ -1,0 +1,151 @@
+# KrakenUniq v0.5.7 DATE:2019-04-01T03:56:07Z DB:/home/sam/Programs/krakenuniq/all_together/ DB_SIZE:29846651932 WD:/home/sam/Data/RawFastq
+# CL:perl /home/sam/miniconda3/envs/krakenuniq/bin/krakenuniq --db /home/sam/Programs/krakenuniq/all_together/ --threads 8 --report-file HHV6A/MSBB_RNA/hB_RNA_10232.accepted_hits.sort.coord.combined.tsv HHV6A/MSBB_RNA/hB_RNA_10232.accepted_hits.sort.coord.combined.fastp.1.fastq
+
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+2.536	126501	126501	33379945	1.44	NA	0	no rank	unclassified
+97.46	4862394	54812	149155593	1.96	0.03131	1	no rank	root
+95.85	4781975	0	149127548	1.93	0.03275	131567	no rank	  cellular organisms
+95.85	4781975	0	149127548	1.93	0.03275	2759	superkingdom	    Eukaryota
+95.85	4781975	0	149127548	1.93	0.03275	33154	no rank	      Opisthokonta
+95.85	4781975	0	149127548	1.93	0.03275	33208	kingdom	        Metazoa
+95.85	4781975	0	149127548	1.93	0.03275	6072	no rank	          Eumetazoa
+95.85	4781975	0	149127548	1.93	0.03275	33213	no rank	            Bilateria
+95.85	4781975	0	149127548	1.93	0.03275	33511	no rank	              Deuterostomia
+95.85	4781975	0	149127548	1.93	0.03275	7711	phylum	                Chordata
+95.85	4781975	0	149127548	1.93	0.03275	89593	subphylum	                  Craniata
+95.85	4781975	0	149127548	1.93	0.03275	7742	no rank	                    Vertebrata
+95.85	4781975	0	149127548	1.93	0.03275	7776	no rank	                      Gnathostomata
+95.85	4781975	0	149127548	1.93	0.03275	117570	no rank	                        Teleostomi
+95.85	4781975	0	149127548	1.93	0.03275	117571	no rank	                          Euteleostomi
+95.85	4781975	0	149127548	1.93	0.03275	8287	superclass	                            Sarcopterygii
+95.85	4781975	0	149127548	1.93	0.03275	1338369	no rank	                              Dipnotetrapodomorpha
+95.85	4781975	0	149127548	1.93	0.03275	32523	no rank	                                Tetrapoda
+95.85	4781975	0	149127548	1.93	0.03275	32524	no rank	                                  Amniota
+95.85	4781975	0	149127548	1.93	0.03275	40674	class	                                    Mammalia
+95.85	4781975	0	149127548	1.93	0.03275	32525	no rank	                                      Theria
+95.85	4781975	0	149127548	1.93	0.03275	9347	no rank	                                        Eutheria
+95.85	4781975	0	149127548	1.93	0.03275	1437010	no rank	                                          Boreoeutheria
+95.85	4781975	0	149127548	1.93	0.03275	314146	superorder	                                            Euarchontoglires
+95.85	4781975	0	149127548	1.93	0.03275	9443	order	                                              Primates
+95.85	4781975	0	149127548	1.93	0.03275	376913	suborder	                                                Haplorrhini
+95.85	4781975	0	149127548	1.93	0.03275	314293	infraorder	                                                  Simiiformes
+95.85	4781975	0	149127548	1.93	0.03275	9526	parvorder	                                                    Catarrhini
+95.85	4781975	0	149127548	1.93	0.03275	314295	superfamily	                                                      Hominoidea
+95.85	4781975	0	149127548	1.93	0.03275	9604	family	                                                        Hominidae
+95.85	4781975	0	149127548	1.93	0.03275	207598	subfamily	                                                          Homininae
+95.85	4781975	0	149127548	1.93	0.03275	9605	genus	                                                            Homo
+95.85	4781975	0	149127548	1.93	0.03275	9606	species	                                                              Homo sapiens
+95.85	4781975	4781975	149127548	1.93	0.03275	1000029966	assembly	                                                                GCF_000001405.38 Homo sapiens
+0.5132	25604	0	12875	34.1	0.004372	28384	no rank	  other sequences
+0.5132	25604	0	12875	34.1	0.004372	81077	no rank	    artificial sequences
+0.5132	25604	6185	12875	34.1	0.004372	32630	species	      synthetic construct
+0.2486	12402	3775	6202	30.5	0.002914	1000000001	assembly	        EmVec
+0.09377	4678	4678	669	163	0.7551	1000002965	sequence	          JN160804 Cloning vector pRS316-1B9, complete sequence.
+0.01912	954	954	428	51.5	0.6534	1000003852	sequence	          KT345944 Cloning vector pAAV-hSyn-CRMP2-hSyn-mCherry, complete sequence.
+0.01339	668	668	7	210	0.0875	1000004065	sequence	          AJ438988 Cloning vector pCG40 synthetic construct poly(CA) poly(TG)
+0.008238	411	411	110	60.5	0.01163	1000002113	sequence	          JN715851 Cloning vector p5E-smyhc1, complete sequence.
+0.007817	390	390	7	142	0.001698	1000004177	sequence	          KU189142 sequence.
+0.007637	381	381	56	104	0.01024	1000002046	sequence	          JX261972 Cloning vector p5E-twhh, complete sequence.
+0.003648	182	182	41	35.9	0.005717	1000003035	sequence	          JQ682640 Cloning vector p-4725sox10.cre, complete sequence.
+0.002365	118	118	42	11	0.003361	1000003211	sequence	          KM384022 BAC cloning vector GPN13BACdenovo_preserved(MM), complete sequence.
+0.002265	113	113	5	69.8	0.025	1000001171	sequence	          DQ813654 Cloning vector pINT, complete sequence.
+0.001764	88	88	529	3.53	0.2353	1000002400	sequence	          KC816625 Cloning vector pCDF_duet_notag_T7_impbeta-T5_alpha_co, complete sequence.
+0.001604	80	80	4	66.8	0.03306	1000001879	sequence	          AB372858 Cloning vector pHIT88 DNA, complete sequence.
+0.001483	74	74	8	43.1	0.06557	1000001407	sequence	          AJ571721 Cloning vector pBSL2A3 polylinker region
+0.0008419	42	42	30	52.6	0.1429	1000001485	sequence	          KT831770 Cloning vector pSplPIGver2, complete sequence.
+0.0006815	34	34	403	1.77	0.6596	1000001576	sequence	          AF102576 Cloning vector pSOS, complete sequence.
+0.0006615	33	33	7	19	0.03704	1000003056	sequence	          EF394360 Retroviral cloning vector LB-G, complete sequence.
+0.0006414	32	32	336	2.51	0.07955	1000000815	sequence	          AF178973 Cloning vector pCS512 complete sequence.
+0.0006414	32	32	36	15.2	0.2278	1000001180	sequence	          AY751539 Cloning vector pHUE, complete sequence.
+0.0004811	24	24	605	1.3	0.1042	1000001632	sequence	          U72488 Cloning vector pRNA8, complete sequence.
+0.000441	22	22	36	6.61	0.2384	1000004148	sequence	          KU963526 Cloning vector pUAS-attB-IVS8/9 Htt-exon1-Q97-EGFP, complete sequence.
+0.0004209	21	21	161	2.96	0.1809	1000000454	sequence	          AF090455 Cloning vector pKOHPRT complete sequence.
+0.0004209	21	21	7	10.7	0.004692	1000000447	sequence	          KF724948 Cloning vector pBlueTAL, complete sequence.
+0.0004009	20	20	134	4.29	0.06033	1000002954	sequence	          AJ870439 Cloning vector pGFP-GluR2-Sin
+0.0003808	19	19	3	15	0.001926	1000002705	sequence	          HQ335167 Cloning vector pGBT-R14, complete sequence.
+0.0003408	17	17	21	5.67	0.01071	1000003050	sequence	          KU998258 Cloning vector p-REX2mDHFR-int, complete sequence.
+0.0003207	16	16	1	16	0.0001611	1000003543	sequence	          AB545980 Cloning vector pTip-istAB-sacB DNA, complete sequence.
+0.0002806	14	14	3	5.67	0.02098	1000002871	sequence	          JN872903 Cloning vector pDXW-3, complete sequence.
+0.0002606	13	13	86	3.14	0.3426	1000003537	sequence	          AB794659 Cloning vector pENTRHBM-CBDBMP4-TVMV DNA, complete sequence.
+0.0002606	13	13	5	8	0.002773	1000004090	sequence	          U53602 receptor (GFP-GR) chimeric protein mRNA, complete cds.
+0.0002405	12	12	58	20.4	0.04255	1000002970	sequence	          AJ890283 Cloning vector pBS.EGFP-MT-CK2A
+0.0002004	10	10	104	2.12	0.6541	1000001880	sequence	          GQ229580 Cloning vector pBIND-GR, complete sequence.
+0.0001604	8	8	4	4.5	0.001804	1000003061	sequence	          KC845567 Cloning vector nanos-Cre vetor, complete sequence.
+0.0001403	7	7	127	1.06	0.1735	1000003280	sequence	          EF203084 Cloning vector pAAV-EF1alpha-hFAH.AOS2, complete sequence.
+0.0001403	7	7	4	5.5	0.02395	1000003338	sequence	          AJ786825 Cloning vector pSin-EG-N1, partial sequence
+0.0001203	6	6	93	1.53	0.3859	1000002559	sequence	          AB570081 Cloning vector pInSRT-GFPV1 DNA, complete sequence.
+0.0001203	6	6	99	1.29	0.1623	1000001174	sequence	          AY438650 Cloning vector pMACSiBac, complete sequence.
+0.0001203	6	6	5	3.8	0.06494	1000004059	sequence	          KM229389 Cloning vector pET-T7p(-14G)-SpacerA-GFP-LVA, complete sequence.
+0.0001203	6	6	2	3.5	0.02326	1000003169	sequence	          KF312156 Cloning/Expression vector pWSII-T7, complete sequence.
+0.0001002	5	5	59	1.24	0.3471	1000000139	sequence	          LT615368 Cloning vector AbVec2.0-IGHG1
+8.018e-05	4	4	14	1.14	0.001743	1000004033	sequence	          EU871431 ribosomal RNA, 23S ribosomal RNA, and 5S ribosomal RNA, complete sequence.
+6.013e-05	3	3	13	51.2	0.008808	1000003550	sequence	          LC028929 Cloning vector pLN-YC Nano15 DNA, complete sequence.
+6.013e-05	3	3	26	3	0.3333	1000002962	sequence	          AJ278716 Cloning vector pAEC-SPT3, partial
+6.013e-05	3	3	63	1.03	0.06134	1000000816	sequence	          KX783040 Cloning vector GAPTrapT2AIresMuro, complete sequence.
+6.013e-05	3	3	6	3	0.06667	1000000573	sequence	          KJ633124 Cloning vector pSUMO3_ck4, complete sequence.
+6.013e-05	3	3	2	3	0.01754	1000002825	sequence	          KM817768 Cloning vector pGEX6p-2rbs, complete sequence.
+4.009e-05	2	2	38	1.08	0.03668	1000001273	sequence	          DQ119053 Cloning vector pMAB136, complete sequence.
+4.009e-05	2	2	8	2	1	1000002591	sequence	          AF050499 Cloning vector pFA2-elk1, complete sequence.
+4.009e-05	2	2	4	2.25	0.0625	1000003904	sequence	          JX088703 Cloning vector pCA13-DsRed-IRES-GFP, complete sequence.
+4.009e-05	2	2	4	1.5	0.1026	1000001975	sequence	          AF379854 Cloning vector pVLH/hsp, complete sequence.
+4.009e-05	2	2	4	1.25	0.0102	1000002237	sequence	          DQ266355 Cloning vector pBBR-IBA3plus, complete sequence.
+2.004e-05	1	1	52	1.21	0.1812	1000000453	sequence	          AF063582 Cloning vector pMUTcJUN, complete sequence.
+2.004e-05	1	1	7	2.43	0.004378	1000001405	sequence	          AF383623 Cloning vector pREX1LC, complete sequence.
+2.004e-05	1	1	8	1	0.03653	1000003542	sequence	          AB014641 Cloning vector pGEX-PUC-3T DNA, complete sequence.
+2.004e-05	1	1	6	1	0.04615	1000001081	sequence	          JN703735 Cloning vector pSX, complete sequence.
+2.004e-05	1	1	3	1.67	0.001309	1000003959	sequence	          KM189193 UNVERIFIED: Cloning vector pcDNA-mBeta-cat-Tcf3, complete sequence.
+2.004e-05	1	1	3	1.67	0.002693	1000001783	sequence	          JN715852 Cloning vector p5E-fMylz2, complete sequence.
+2.004e-05	1	1	2	2.5	0.0009847	1000001437	sequence	          EU284110 Cloning vector pBB173, complete sequence.
+2.004e-05	1	1	1	4	0.0007215	1000002068	sequence	          KX252723 Cloning vector GmScream7-pFLEV, complete sequence.
+2.004e-05	1	1	3	1.33	0.002045	1000002713	sequence	          AB684638 Cloning vector pSolycp00013 DNA, complete sequence.
+2.004e-05	1	1	2	2	0.006826	1000000954	sequence	          U47322 Cloning vector DNA, complete sequence.
+2.004e-05	1	1	3	1	4.14e-05	1000002316	sequence	          AB904499 Cloning vector pTACAtg1 DNA, complete sequence.
+2.004e-05	1	1	2	1	0.003766	1000001402	sequence	          AF251497 Cloning vector HKBS1, complete sequence.
+2.004e-05	1	1	1	2	0.0003883	1000000527	sequence	          JF748716 Cloning vector pTrypRNAiGate, complete sequence.
+2.004e-05	1	1	1	1	0.0003606	1000001345	sequence	          EU499313 Cloning vector pKEK1140, complete sequence.
+2.004e-05	1	1	1	1	0.0004892	1000002431	sequence	          KX650081 Cloning vector pMON261406 nif operon, complete sequence.
+0.1407	7017	140	513	145	0.002472	1000004191	assembly	        UniVec
+0.1209	6033	6033	14	4.91e+03	0.5185	1000005184	sequence	          gnl|uv|NGB00821.1:1-63 Illumina TruSeq Small RNA Sample Prep Kit RNA PCR Primer Index 28 (RPI28) (Oligonucleotide sequence copyright 2007-2012 Illumina, Inc. All rights reserved.)
+0.01441	719	719	2	724	0.1	1000005206	sequence	          gnl|uv|NGB00360.1:1-58 Illumina PCR Primer (Oligonucleotide sequence copyright 2007-2012 Illumina, Inc. All rights reserved.)
+0.0007216	36	36	5	23.2	0.625	1000007102	sequence	          gnl|uv|NGB00171.1:8-66 Oligo-dT primer used in I.M.A.G.E. library NIH_MGC_200 and other libraries
+0.0005612	28	28	258	3.61	0.6789	1000009529	sequence	          gnl|uv|KF853602.1:1019-2932 NRF2 CMV-Neo Vector pNLF1
+0.0001604	8	8	13	5.77	0.4643	1000005179	sequence	          gnl|uv|NGB00816.1:1-63 Illumina TruSeq Small RNA Sample Prep Kit RNA PCR Primer Index 23 (RPI23) (Oligonucleotide sequence copyright 2007-2012 Illumina, Inc. All rights reserved.)
+0.0001403	7	7	59	2.49	0.8806	1000004195	sequence	          gnl|uv|J02482.1:1-5386-49 Coliphage phi-X174
+0.0001203	6	6	3	4.67	0.006098	1000004993	sequence	          gnl|uv|KC702197.1:1-522 Synthetic construct external RNA control ERCC-00074 sequence
+0.0001002	5	5	13	3.46	0.4815	1000005195	sequence	          gnl|uv|NGB00832.1:1-63 Illumina TruSeq Small RNA Sample Prep Kit RNA PCR Primer Index 39 (RPI39) (Oligonucleotide sequence copyright 2007-2012 Illumina, Inc. All rights reserved.)
+8.018e-05	4	4	10	2.9	0.3704	1000005181	sequence	          gnl|uv|NGB00818.1:1-63 Illumina TruSeq Small RNA Sample Prep Kit RNA PCR Primer Index 25 (RPI25) (Oligonucleotide sequence copyright 2007-2012 Illumina, Inc. All rights reserved.)
+6.013e-05	3	3	1	16	0.04	1000007121	sequence	          gnl|uv|NGB00223.1:1-59 NotI oligo-dT primer used in I.M.A.G.E. library Soares NMUR and other libraries
+6.013e-05	3	3	5	2	0.1	1000004399	sequence	          gnl|uv|EU545996.1:1461-1586 T7 SP6 Flexi Vector pFC20A (HaloTag 7)
+4.009e-05	2	2	3	18.7	0.01095	1000007961	sequence	          gnl|uv|NGB00402.1:2108-3532 pInvRecA cloning vector
+4.009e-05	2	2	21	1.29	1	1000005205	sequence	          gnl|uv|NGB00362.1:1-61 Illumina Paired End PCR Primer 2.0 (Oligonucleotide sequence copyright 2007-2012 Illumina, Inc. All rights reserved.)
+4.009e-05	2	2	7	1.86	0.25	1000005174	sequence	          gnl|uv|NGB00811.1:1-63 Illumina TruSeq Small RNA Sample Prep Kit RNA PCR Primer Index 18 (RPI18) (Oligonucleotide sequence copyright 2007-2012 Illumina, Inc. All rights reserved.)
+4.009e-05	2	2	3	3.67	0.0123	1000005013	sequence	          gnl|uv|KC702188.1:1-274 Synthetic construct external RNA control ERCC-00054 sequence
+4.009e-05	2	2	3	1.33	0.1111	1000007125	sequence	          gnl|uv|NGB00240.1:1-59 NotI oligo-dT primer used in I.M.A.G.E. library Soares NMGB and other libraries
+4.009e-05	2	2	2	1.5	0.001515	1000004899	sequence	          gnl|uv|KC702208.1:1-1350 Synthetic construct external RNA control ERCC-00099 sequence
+2.004e-05	1	1	4	3.5	0.005249	1000009295	sequence	          gnl|uv|X70481.1:3564-4492 replicative centromeric Saccharomyces cerevisiae/E. coli shuttle vector
+2.004e-05	1	1	11	1	1	1000005146	sequence	          gnl|uv|NGB00850.1:1-64 NEBNext Index 4 Primer for Illumina
+2.004e-05	1	1	2	3	0.25	1000004260	sequence	          gnl|uv|NGB00007.1:1-45 CLONTECH PCR-Select cDNA synthesis primer
+2.004e-05	1	1	1	5	0.001629	1000004975	sequence	          gnl|uv|DQ883653.3:1-644 Synthetic construct external RNA control ERCC-00067 sequence
+2.004e-05	1	1	1	4	0.01515	1000004928	sequence	          gnl|uv|KC702227.1:1-1042 Synthetic construct external RNA control ERCC-00145 sequence
+2.004e-05	1	1	2	1.5	0.08333	1000004250	sequence	          gnl|uv|NGB00012.1:1-59 CLONTECH SMART CDS III/3'PCR primer
+2.004e-05	1	1	2	1	0.07692	1000007120	sequence	          gnl|uv|NGB00221.1:1-59 NotI oligo-dT primer used in I.M.A.G.E. library NCI_CGAP_CLL1 and other libraries
+2.004e-05	1	1	1	2	0.002028	1000004989	sequence	          gnl|uv|KC702192.1:1-523 Synthetic construct external RNA control ERCC-00060 sequence
+2.004e-05	1	1	1	2	0.001229	1000004962	sequence	          gnl|uv|DQ883669.3:1-844 Synthetic construct external RNA control ERCC-00085 sequence
+2.004e-05	1	1	2	1	0.006557	1000004724	sequence	          gnl|uv|NGB00410.1:1-474 Cloning Vector pETBlue-1
+2.004e-05	1	1	2	1	0.003257	1000004973	sequence	          gnl|uv|DQ883651.3:1-644 Synthetic construct external RNA control ERCC-00019 sequence
+2.004e-05	1	1	1	1	0.03571	1000005142	sequence	          gnl|uv|NGB00846.1:1-65 NEBNext Adaptor for Illumina
+2.004e-05	1	1	1	1	0.02941	1000005046	sequence	          gnl|uv|NGB00754.1:1-70 Illumina TruSeq DNA HT and RNA HT i5 index D508 adapter (Oligonucleotide sequence copyright 2007-2012 Illumina, Inc. All rights reserved.)
+6.013e-05	3	0	43	1.4	2.08e-07	10239	no rank	  Viruses
+4.009e-05	2	0	1	4	1.03e-08	28883	order	    Caudovirales
+4.009e-05	2	0	1	4	2.803e-08	10699	family	      Siphoviridae
+4.009e-05	2	0	1	4	8.607e-07	1982876	subfamily	        Bclasvirinae
+4.009e-05	2	0	1	4	5.934e-06	1623295	genus	          Pegunavirus
+4.009e-05	2	0	1	4	0.0001002	1986350	species	            Mycobacterium virus Oline
+4.009e-05	2	0	1	4	0.0001002	1052671	no rank	              Mycobacterium phage Oline
+4.009e-05	2	0	1	4	0.0001002	1000015369	assembly	                GCF_000919295.1 Mycobacterium phage Oline
+4.009e-05	2	2	1	4	0.0001002	1000015370	sequence	                  NC_023711.1 Mycobacterium phage Oline, complete genome
+2.004e-05	1	0	8	1.88	9.157e-07	10442	family	    Baculoviridae
+2.004e-05	1	0	8	1.88	3.118e-06	558017	genus	      Betabaculovirus
+2.004e-05	1	0	8	1.88	8.731e-05	56947	species	        Choristoneura fumiferana granulovirus
+2.004e-05	1	0	8	1.88	8.731e-05	1000022759	assembly	          GCF_000869805.1 Choristoneura fumiferana granulovirus
+2.004e-05	1	1	8	1.88	8.731e-05	1000022760	sequence	            NC_008168.1 Choristoneura fumiferana granulovirus, complete genome

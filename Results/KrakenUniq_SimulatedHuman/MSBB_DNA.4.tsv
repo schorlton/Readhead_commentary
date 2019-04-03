@@ -1,0 +1,77 @@
+# KrakenUniq v0.5.7 DATE:2019-04-02T23:46:56Z DB:/home/sam/Programs/krakenuniq/all_together/ DB_SIZE:29846651932 WD:/home/sam/Data/Sim
+# CL:perl /home/sam/miniconda3/envs/krakenuniq/bin/krakenuniq --db /home/sam/Programs/krakenuniq/all_together/ --threads 8 --report-file MSBB_DNA.4.tsv --paired MSBB_DNA.4.fastp.1.fastq MSBB_DNA.4.fastp.2.fastq
+
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+0.09063	45455	45455	468357934	2.16	NA	0	no rank	unclassified
+99.91	50106949	14122	110673840	76.9	0.02323	1	no rank	root
+99.87	50086856	0	110542726	76.9	0.02428	131567	no rank	  cellular organisms
+99.87	50086856	0	110542726	76.9	0.02428	2759	superkingdom	    Eukaryota
+99.87	50086856	0	110542726	76.9	0.02428	33154	no rank	      Opisthokonta
+99.87	50086856	0	110542726	76.9	0.02428	33208	kingdom	        Metazoa
+99.87	50086856	0	110542726	76.9	0.02428	6072	no rank	          Eumetazoa
+99.87	50086856	0	110542726	76.9	0.02428	33213	no rank	            Bilateria
+99.87	50086856	0	110542726	76.9	0.02428	33511	no rank	              Deuterostomia
+99.87	50086856	0	110542726	76.9	0.02428	7711	phylum	                Chordata
+99.87	50086856	0	110542726	76.9	0.02428	89593	subphylum	                  Craniata
+99.87	50086856	0	110542726	76.9	0.02428	7742	no rank	                    Vertebrata
+99.87	50086856	0	110542726	76.9	0.02428	7776	no rank	                      Gnathostomata
+99.87	50086856	0	110542726	76.9	0.02428	117570	no rank	                        Teleostomi
+99.87	50086856	0	110542726	76.9	0.02428	117571	no rank	                          Euteleostomi
+99.87	50086856	0	110542726	76.9	0.02428	8287	superclass	                            Sarcopterygii
+99.87	50086856	0	110542726	76.9	0.02428	1338369	no rank	                              Dipnotetrapodomorpha
+99.87	50086856	0	110542726	76.9	0.02428	32523	no rank	                                Tetrapoda
+99.87	50086856	0	110542726	76.9	0.02428	32524	no rank	                                  Amniota
+99.87	50086856	0	110542726	76.9	0.02428	40674	class	                                    Mammalia
+99.87	50086856	0	110542726	76.9	0.02428	32525	no rank	                                      Theria
+99.87	50086856	0	110542726	76.9	0.02428	9347	no rank	                                        Eutheria
+99.87	50086856	0	110542726	76.9	0.02428	1437010	no rank	                                          Boreoeutheria
+99.87	50086856	0	110542726	76.9	0.02428	314146	superorder	                                            Euarchontoglires
+99.87	50086856	0	110542726	76.9	0.02428	9443	order	                                              Primates
+99.87	50086856	0	110542726	76.9	0.02428	376913	suborder	                                                Haplorrhini
+99.87	50086856	0	110542726	76.9	0.02428	314293	infraorder	                                                  Simiiformes
+99.87	50086856	0	110542726	76.9	0.02428	9526	parvorder	                                                    Catarrhini
+99.87	50086856	0	110542726	76.9	0.02428	314295	superfamily	                                                      Hominoidea
+99.87	50086856	0	110542726	76.9	0.02428	9604	family	                                                        Hominidae
+99.87	50086856	0	110542726	76.9	0.02428	207598	subfamily	                                                          Homininae
+99.87	50086856	0	110542726	76.9	0.02428	9605	genus	                                                            Homo
+99.87	50086856	0	110542726	76.9	0.02428	9606	species	                                                              Homo sapiens
+99.87	50086856	50086856	110542726	76.9	0.02428	1000029966	assembly	                                                                GCF_000001405.38 Homo sapiens
+0.0119	5970	0	7062	269	0.002398	28384	no rank	  other sequences
+0.0119	5970	0	7062	269	0.002398	81077	no rank	    artificial sequences
+0.0119	5970	2042	7062	269	0.002398	32630	species	      synthetic construct
+0.007571	3797	917	2901	223	0.001363	1000000001	assembly	        EmVec
+0.0021	1053	1053	399	100	0.4503	1000002965	sequence	          JN160804 Cloning vector pRS316-1B9, complete sequence.
+0.0004446	223	223	86	72.6	0.08374	1000000816	sequence	          KX783040 Cloning vector GAPTrapT2AIresMuro, complete sequence.
+0.0004267	214	214	109	783	0.01152	1000002113	sequence	          JN715851 Cloning vector p5E-smyhc1, complete sequence.
+0.0003549	178	178	123	59.1	0.5104	1000002559	sequence	          AB570081 Cloning vector pInSRT-GFPV1 DNA, complete sequence.
+0.0003091	155	155	68	66.9	0.1232	1000003795	sequence	          KT923469 Cloning vector pTT-PB-hTERT-puro, complete sequence.
+0.0002971	149	149	90	129	0.596	1000004148	sequence	          KU963526 Cloning vector pUAS-attB-IVS8/9 Htt-exon1-Q97-EGFP, complete sequence.
+0.0002971	149	149	104	67.8	0.2144	1000000154	sequence	          FM209526 Cloning vector pr8a
+0.0001994	100	100	54	619	0.2571	1000001485	sequence	          KT831770 Cloning vector pSplPIGver2, complete sequence.
+0.0001994	100	100	50	60.3	0.08183	1000001576	sequence	          AF102576 Cloning vector pSOS, complete sequence.
+0.0001954	98	98	57	1.13e+03	0.01042	1000002046	sequence	          JX261972 Cloning vector p5E-twhh, complete sequence.
+0.0001755	88	88	38	452	0.00304	1000003211	sequence	          KM384022 BAC cloning vector GPN13BACdenovo_preserved(MM), complete sequence.
+0.0001176	59	59	33	1.11e+03	0.004602	1000003035	sequence	          JQ682640 Cloning vector p-4725sox10.cre, complete sequence.
+9.97e-05	50	50	94	71.4	0.3275	1000000453	sequence	          AF063582 Cloning vector pMUTcJUN, complete sequence.
+9.97e-05	50	50	32	48.7	0.2712	1000002612	sequence	          AB007632 Unidentified cloning vector pSSD3, complete sequence.
+9.172e-05	46	46	28	59.8	0.01553	1000004090	sequence	          U53602 receptor (GFP-GR) chimeric protein mRNA, complete cds.
+8.574e-05	43	43	7	2.24e+03	0.0875	1000004065	sequence	          AJ438988 Cloning vector pCG40 synthetic construct poly(CA) poly(TG)
+4.387e-05	22	22	6	39.7	0.008197	1000003280	sequence	          EF203084 Cloning vector pAAV-EF1alpha-hFAH.AOS2, complete sequence.
+4.187e-05	21	21	4	643	0.02116	1000003056	sequence	          EF394360 Retroviral cloning vector LB-G, complete sequence.
+3.589e-05	18	18	6	1.78e+03	0.001455	1000004177	sequence	          KU189142 sequence.
+3.589e-05	18	18	6	139	0.07792	1000004059	sequence	          KM229389 Cloning vector pET-T7p(-14G)-SpacerA-GFP-LVA, complete sequence.
+3.39e-05	17	17	4	625	0.03279	1000001407	sequence	          AJ571721 Cloning vector pBSL2A3 polylinker region
+2.193e-05	11	11	42	50.2	0.06885	1000001174	sequence	          AY438650 Cloning vector pMACSiBac, complete sequence.
+1.795e-05	9	9	2	120	0.001795	1000001783	sequence	          JN715852 Cloning vector p5E-fMylz2, complete sequence.
+1.595e-05	8	8	32	142	0.01632	1000003050	sequence	          KU998258 Cloning vector p-REX2mDHFR-int, complete sequence.
+1.994e-06	1	1	20	1	0.004735	1000000815	sequence	          AF178973 Cloning vector pCS512 complete sequence.
+0.0002612	131	0	243	77.4	0.001171	1000004191	assembly	        UniVec
+0.0002612	131	131	193	74.6	0.5079	1000009529	sequence	          gnl|uv|KF853602.1:1019-2932 NRF2 CMV-Neo Vector pNLF1
+1.994e-06	1	0	45	3.44	2.177e-07	10239	no rank	  Viruses
+1.994e-06	1	0	9	1	7.185e-07	548681	order	    Herpesvirales
+1.994e-06	1	0	5	1	4.912e-07	10292	family	      Herpesviridae
+1.994e-06	1	0	5	1	1.759e-06	10374	subfamily	        Gammaherpesvirinae
+1.994e-06	1	0	5	1	5.281e-06	10379	genus	          Rhadinovirus
+1.994e-06	1	0	5	1	4.76e-05	10381	species	            Saimiriine gammaherpesvirus 2
+1.994e-06	1	0	5	1	4.76e-05	1000020113	assembly	              GCF_000845465.1 Saimiriine gammaherpesvirus 2
+1.994e-06	1	1	5	1	4.76e-05	1000020114	sequence	                NC_001350.1 Saimiriine herpesvirus 2 complete genome

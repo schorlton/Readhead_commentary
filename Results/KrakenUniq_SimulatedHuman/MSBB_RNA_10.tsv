@@ -1,0 +1,138 @@
+# KrakenUniq v0.5.7 DATE:2019-04-02T17:43:18Z DB:/home/sam/Programs/krakenuniq/all_together/ DB_SIZE:29846651932 WD:/home/sam/Data/Sim
+# CL:perl /home/sam/miniconda3/envs/krakenuniq/bin/krakenuniq --db /home/sam/Programs/krakenuniq/all_together/ --threads 8 --report-file MSBB_RNA_10.tsv MSBB_RNA_10.fastp.1.fastq
+
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+1.278	571202	571202	108631395	5.09	NA	0	no rank	unclassified
+98.72	44111390	29188	16008919	148	0.00336	1	no rank	root
+97.87	43731022	0	16002621	147	0.003514	131567	no rank	  cellular organisms
+97.87	43731022	0	16002621	147	0.003514	2759	superkingdom	    Eukaryota
+97.87	43731022	0	16002621	147	0.003514	33154	no rank	      Opisthokonta
+97.87	43731022	0	16002621	147	0.003514	33208	kingdom	        Metazoa
+97.87	43731022	0	16002621	147	0.003514	6072	no rank	          Eumetazoa
+97.87	43731022	0	16002621	147	0.003514	33213	no rank	            Bilateria
+97.87	43731022	0	16002621	147	0.003514	33511	no rank	              Deuterostomia
+97.87	43731022	0	16002621	147	0.003514	7711	phylum	                Chordata
+97.87	43731022	0	16002621	147	0.003514	89593	subphylum	                  Craniata
+97.87	43731022	0	16002621	147	0.003514	7742	no rank	                    Vertebrata
+97.87	43731022	0	16002621	147	0.003514	7776	no rank	                      Gnathostomata
+97.87	43731022	0	16002621	147	0.003514	117570	no rank	                        Teleostomi
+97.87	43731022	0	16002621	147	0.003514	117571	no rank	                          Euteleostomi
+97.87	43731022	0	16002621	147	0.003514	8287	superclass	                            Sarcopterygii
+97.87	43731022	0	16002621	147	0.003514	1338369	no rank	                              Dipnotetrapodomorpha
+97.87	43731022	0	16002621	147	0.003514	32523	no rank	                                Tetrapoda
+97.87	43731022	0	16002621	147	0.003514	32524	no rank	                                  Amniota
+97.87	43731022	0	16002621	147	0.003514	40674	class	                                    Mammalia
+97.87	43731022	0	16002621	147	0.003514	32525	no rank	                                      Theria
+97.87	43731022	0	16002621	147	0.003514	9347	no rank	                                        Eutheria
+97.87	43731022	0	16002621	147	0.003514	1437010	no rank	                                          Boreoeutheria
+97.87	43731022	0	16002621	147	0.003514	314146	superorder	                                            Euarchontoglires
+97.87	43731022	0	16002621	147	0.003514	9443	order	                                              Primates
+97.87	43731022	0	16002621	147	0.003514	376913	suborder	                                                Haplorrhini
+97.87	43731022	0	16002621	147	0.003514	314293	infraorder	                                                  Simiiformes
+97.87	43731022	0	16002621	147	0.003514	9526	parvorder	                                                    Catarrhini
+97.87	43731022	0	16002621	147	0.003514	314295	superfamily	                                                      Hominoidea
+97.87	43731022	0	16002621	147	0.003514	9604	family	                                                        Hominidae
+97.87	43731022	0	16002621	147	0.003514	207598	subfamily	                                                          Homininae
+97.87	43731022	0	16002621	147	0.003514	9605	genus	                                                            Homo
+97.87	43731022	0	16002621	147	0.003514	9606	species	                                                              Homo sapiens
+97.87	43731022	43731022	16002621	147	0.003514	1000029966	assembly	                                                                GCF_000001405.38 Homo sapiens
+0.7859	351180	0	4542	3e+03	0.001542	28384	no rank	  other sequences
+0.7859	351180	0	4542	3e+03	0.001542	81077	no rank	    artificial sequences
+0.7859	351180	159232	4542	3e+03	0.001542	32630	species	      synthetic construct
+0.4047	180823	119180	1859	580	0.0008734	1000000001	assembly	        EmVec
+0.05575	24910	24910	8	1.11e+04	0.04233	1000003056	sequence	          EF394360 Retroviral cloning vector LB-G, complete sequence.
+0.04789	21397	21397	47	2.72e+03	0.003761	1000003211	sequence	          KM384022 BAC cloning vector GPN13BACdenovo_preserved(MM), complete sequence.
+0.003932	1757	1757	47	537	0.008594	1000002046	sequence	          JX261972 Cloning vector p5E-twhh, complete sequence.
+0.003449	1541	1541	104	252	0.6541	1000001880	sequence	          GQ229580 Cloning vector pBIND-GR, complete sequence.
+0.00342	1528	1528	6	1.3e+03	0.004021	1000000447	sequence	          KF724948 Cloning vector pBlueTAL, complete sequence.
+0.002668	1192	1192	3	1.13e+03	0.02174	1000000260	sequence	          AY452085 Cloning vector pAGA3, complete sequence.
+0.002493	1114	1114	8	323	0.1	1000004065	sequence	          AJ438988 Cloning vector pCG40 synthetic construct poly(CA) poly(TG)
+0.002489	1112	1112	99	417	0.3449	1000000453	sequence	          AF063582 Cloning vector pMUTcJUN, complete sequence.
+0.001996	892	892	34	462	0.003593	1000002113	sequence	          JN715851 Cloning vector p5E-smyhc1, complete sequence.
+0.001967	879	879	6	581	0.003851	1000002705	sequence	          HQ335167 Cloning vector pGBT-R14, complete sequence.
+0.001922	859	859	65	267	0.1066	1000001174	sequence	          AY438650 Cloning vector pMACSiBac, complete sequence.
+0.001614	721	721	7	214	0.05785	1000001879	sequence	          AB372858 Cloning vector pHIT88 DNA, complete sequence.
+0.00132	590	590	62	51.1	0.06966	1000000454	sequence	          AF090455 Cloning vector pKOHPRT complete sequence.
+0.001238	553	553	19	205	0.00265	1000003035	sequence	          JQ682640 Cloning vector p-4725sox10.cre, complete sequence.
+0.00113	505	505	8	433	0.06557	1000001407	sequence	          AJ571721 Cloning vector pBSL2A3 polylinker region
+0.0009422	421	421	9	132	0.0596	1000004148	sequence	          KU963526 Cloning vector pUAS-attB-IVS8/9 Htt-exon1-Q97-EGFP, complete sequence.
+0.000837	374	374	98	88.1	0.4475	1000003542	sequence	          AB014641 Cloning vector pGEX-PUC-3T DNA, complete sequence.
+0.0006222	278	278	6	263	0.06667	1000000573	sequence	          KJ633124 Cloning vector pSUMO3_ck4, complete sequence.
+0.0005819	260	260	2	529	0.0004851	1000004177	sequence	          KU189142 sequence.
+0.0003715	166	166	3	159	0.03488	1000004019	sequence	          Y07862 genome
+0.0003156	141	141	103	27.5	0.1573	1000003852	sequence	          KT345944 Cloning vector pAAV-hSyn-CRMP2-hSyn-mCherry, complete sequence.
+0.0002283	102	102	2	160	0.008299	1000002559	sequence	          AB570081 Cloning vector pInSRT-GFPV1 DNA, complete sequence.
+0.0002104	94	94	24	20.8	0.01331	1000004090	sequence	          U53602 receptor (GFP-GR) chimeric protein mRNA, complete cds.
+0.0001679	75	75	3	42.7	0.0002437	1000002114	sequence	          JN874482 Cloning vector pHUGE-MtNFS, complete sequence.
+0.0001186	53	53	11	70.3	0.05238	1000001485	sequence	          KT831770 Cloning vector pSplPIGver2, complete sequence.
+6.714e-05	30	30	3	16.7	0.001309	1000003959	sequence	          KM189193 UNVERIFIED: Cloning vector pcDNA-mBeta-cat-Tcf3, complete sequence.
+5.371e-05	24	24	32	14.4	0.2712	1000002612	sequence	          AB007632 Unidentified cloning vector pSSD3, complete sequence.
+4.476e-05	20	20	5	35.4	0.002255	1000003061	sequence	          KC845567 Cloning vector nanos-Cre vetor, complete sequence.
+3.805e-05	17	17	20	12	0.0102	1000003050	sequence	          KU998258 Cloning vector p-REX2mDHFR-int, complete sequence.
+2.686e-05	12	12	18	11.1	0.1139	1000001180	sequence	          AY751539 Cloning vector pHUE, complete sequence.
+2.462e-05	11	11	43	7.12	0.04187	1000000816	sequence	          KX783040 Cloning vector GAPTrapT2AIresMuro, complete sequence.
+1.343e-05	6	6	2	14.5	0.0009005	1000002954	sequence	          AJ870439 Cloning vector pGFP-GluR2-Sin
+6.714e-06	3	3	3	3.33	0.0003885	1000001039	sequence	          KU749552 Cloning vector reBmBac, complete sequence.
+4.476e-06	2	2	2	4.5	0.01	1000001171	sequence	          DQ813654 Cloning vector pINT, complete sequence.
+4.476e-06	2	2	3	2.67	0.03896	1000004059	sequence	          KM229389 Cloning vector pET-T7p(-14G)-SpacerA-GFP-LVA, complete sequence.
+4.476e-06	2	2	1	7	0.005988	1000003338	sequence	          AJ786825 Cloning vector pSin-EG-N1, partial sequence
+0.0249	11125	0	323	833	0.001556	1000004191	assembly	        UniVec
+0.01743	7787	7787	121	2.08e+03	0.3184	1000009529	sequence	          gnl|uv|KF853602.1:1019-2932 NRF2 CMV-Neo Vector pNLF1
+0.001687	754	754	6	413	0.02459	1000005013	sequence	          gnl|uv|KC702188.1:1-274 Synthetic construct external RNA control ERCC-00054 sequence
+0.00154	688	688	1	2.14e+03	0.01515	1000004928	sequence	          gnl|uv|KC702227.1:1-1042 Synthetic construct external RNA control ERCC-00145 sequence
+0.0008482	379	379	4	379	0.00303	1000004899	sequence	          gnl|uv|KC702208.1:1-1350 Synthetic construct external RNA control ERCC-00099 sequence
+0.0006087	272	272	3	353	0.06	1000004399	sequence	          gnl|uv|EU545996.1:1461-1586 T7 SP6 Flexi Vector pFC20A (HaloTag 7)
+0.0004364	195	195	3	403	0.005929	1000004983	sequence	          gnl|uv|KC702175.1:1-536 Synthetic construct external RNA control ERCC-00024 sequence
+0.000235	105	105	4	92	0.003636	1000004920	sequence	          gnl|uv|KC702176.1:1-1130 Synthetic construct external RNA control ERCC-00028 sequence
+0.0002238	100	100	2	120	0.002075	1000004953	sequence	          gnl|uv|DQ883685.3:1-994 Synthetic construct external RNA control ERCC-00111 sequence
+0.0001746	78	78	3	87.3	0.005952	1000004986	sequence	          gnl|uv|KC702200.1:1-534 Synthetic construct external RNA control ERCC-00081 sequence
+0.0001365	61	61	2	337	0.25	1000007102	sequence	          gnl|uv|NGB00171.1:8-66 Oligo-dT primer used in I.M.A.G.E. library NIH_MGC_200 and other libraries
+0.0001029	46	46	3	133	0.004208	1000004970	sequence	          gnl|uv|DQ883658.3:1-743 Synthetic construct external RNA control ERCC-00160 sequence
+9.847e-05	44	44	3	82.7	0.006098	1000004992	sequence	          gnl|uv|KC702185.1:1-522 Synthetic construct external RNA control ERCC-00046 sequence
+9.847e-05	44	44	1	50	0.001972	1000004982	sequence	          gnl|uv|KC702229.1:1-537 Synthetic construct external RNA control ERCC-00154 sequence
+9.623e-05	43	43	3	99	0.004886	1000004973	sequence	          gnl|uv|DQ883651.3:1-644 Synthetic construct external RNA control ERCC-00019 sequence
+9.176e-05	41	41	2	348	0.002457	1000004962	sequence	          gnl|uv|DQ883669.3:1-844 Synthetic construct external RNA control ERCC-00085 sequence
+8.952e-05	40	40	2	54	0.002014	1000004939	sequence	          gnl|uv|KC702201.1:1-1023 Synthetic construct external RNA control ERCC-00083 sequence
+8.728e-05	39	39	3	31.7	0.0123	1000005012	sequence	          gnl|uv|KC702186.1:1-274 Synthetic construct external RNA control ERCC-00051 sequence
+8.504e-05	38	38	2	21	0.00194	1000004926	sequence	          gnl|uv|KC702164.1:1-1061 Synthetic construct external RNA control ERCC-00002 sequence
+6.043e-05	27	27	2	31	0.002014	1000004938	sequence	          gnl|uv|KC702198.1:1-1023 Synthetic construct external RNA control ERCC-00075 sequence
+5.595e-05	25	25	2	27	0.002375	1000004960	sequence	          gnl|uv|KC702235.1:1-872 Synthetic construct external RNA control ERCC-00165 sequence
+5.371e-05	24	24	2	20.5	0.003257	1000004974	sequence	          gnl|uv|DQ883652.3:1-644 Synthetic construct external RNA control ERCC-00079 sequence
+4.924e-05	22	22	4	12.8	0.006515	1000004975	sequence	          gnl|uv|DQ883653.3:1-644 Synthetic construct external RNA control ERCC-00067 sequence
+4.7e-05	21	21	3	23.3	0.003021	1000004940	sequence	          gnl|uv|KC702228.1:1-1023 Synthetic construct external RNA control ERCC-00147 sequence
+4.476e-05	20	20	2	26	0.002075	1000004951	sequence	          gnl|uv|DQ883670.3:1-994 Synthetic construct external RNA control ERCC-00012 sequence
+4.252e-05	19	19	3	53.3	0.003112	1000004952	sequence	          gnl|uv|DQ883682.3:1-994 Synthetic construct external RNA control ERCC-00084 sequence
+4.028e-05	18	18	1	86	0.001008	1000004941	sequence	          gnl|uv|KC702210.1:1-1022 Synthetic construct external RNA control ERCC-00108 sequence
+3.357e-05	15	15	2	145	0.004057	1000004990	sequence	          gnl|uv|KC702206.1:1-523 Synthetic construct external RNA control ERCC-00097 sequence
+3.357e-05	15	15	2	13.5	0.003268	1000004977	sequence	          gnl|uv|DQ883654.3:1-642 Synthetic construct external RNA control ERCC-00071 sequence
+3.133e-05	14	14	3	104	0.005906	1000004980	sequence	          gnl|uv|KC702226.1:1-538 Synthetic construct external RNA control ERCC-00144 sequence
+3.133e-05	14	14	3	48.7	0.003704	1000004963	sequence	          gnl|uv|DQ883663.3:1-840 Synthetic construct external RNA control ERCC-00113 sequence
+3.133e-05	14	14	2	19.5	0.00404	1000004987	sequence	          gnl|uv|KC702191.1:1-525 Synthetic construct external RNA control ERCC-00059 sequence
+2.462e-05	11	11	4	68.2	0.1333	1000007042	sequence	          gnl|uv|NGB01023.1:946-1024 ERCC RNA Spike-In ERCC-00138
+2.238e-05	10	10	4	142	0.004024	1000004931	sequence	          gnl|uv|KC702236.1:1-1024 Synthetic construct external RNA control ERCC-00168 sequence
+2.238e-05	10	10	2	47	0.001808	1000004915	sequence	          gnl|uv|KC702193.1:1-1136 Synthetic construct external RNA control ERCC-00061 sequence
+2.014e-05	9	9	5	107	0.01014	1000004989	sequence	          gnl|uv|KC702192.1:1-523 Synthetic construct external RNA control ERCC-00060 sequence
+1.79e-05	8	8	5	32	0.01014	1000004991	sequence	          gnl|uv|KC702232.1:1-523 Synthetic construct external RNA control ERCC-00162 sequence
+1.79e-05	8	8	5	21.6	0.004517	1000004912	sequence	          gnl|uv|KC702195.1:1-1137 Synthetic construct external RNA control ERCC-00069 sequence
+1.79e-05	8	8	3	28.7	0.002712	1000004913	sequence	          gnl|uv|KC702171.1:1-1136 Synthetic construct external RNA control ERCC-00017 sequence
+1.79e-05	8	8	2	5	0.004717	1000004988	sequence	          gnl|uv|KC702166.1:1-523 Synthetic construct external RNA control ERCC-00004 sequence
+1.567e-05	7	7	1	86	0.0009141	1000004922	sequence	          gnl|uv|KC702203.1:1-1124 Synthetic construct external RNA control ERCC-00092 sequence
+1.343e-05	6	6	1	8	0.001007	1000004937	sequence	          gnl|uv|KC702194.1:1-1023 Synthetic construct external RNA control ERCC-00062 sequence
+8.952e-06	4	4	3	29	0.002712	1000004917	sequence	          gnl|uv|KC702214.1:1-1136 Synthetic construct external RNA control ERCC-00117 sequence
+8.952e-06	4	4	5	16.6	0.01016	1000004993	sequence	          gnl|uv|KC702197.1:1-522 Synthetic construct external RNA control ERCC-00074 sequence
+8.952e-06	4	4	3	17	0.00272	1000004919	sequence	          gnl|uv|KC702218.1:1-1133 Synthetic construct external RNA control ERCC-00128 sequence
+8.952e-06	4	4	4	11	0.01646	1000005015	sequence	          gnl|uv|KC702174.1:1-273 Synthetic construct external RNA control ERCC-00023 sequence
+8.952e-06	4	4	1	5	0.001229	1000004961	sequence	          gnl|uv|DQ883664.3:1-844 Synthetic construct external RNA control ERCC-00016 sequence
+6.714e-06	3	3	4	23	0.005548	1000004968	sequence	          gnl|uv|KC702173.1:1-751 Synthetic construct external RNA control ERCC-00022 sequence
+4.476e-06	2	2	2	14	0.002012	1000004932	sequence	          gnl|uv|KC702237.1:1-1024 Synthetic construct external RNA control ERCC-00170 sequence
+4.476e-06	2	2	1	22	0.001634	1000004976	sequence	          gnl|uv|DQ883650.3:1-642 Synthetic construct external RNA control ERCC-00076 sequence
+4.476e-06	2	2	2	2	0.00823	1000005016	sequence	          gnl|uv|KC702199.1:1-273 Synthetic construct external RNA control ERCC-00077 sequence
+2.238e-06	1	1	3	192	0.01531	1000005014	sequence	          gnl|uv|KC702221.1:1-274 Synthetic construct external RNA control ERCC-00134 sequence
+2.238e-06	1	1	2	28	0.07692	1000007153	sequence	          gnl|uv|NGB00210.1:1-57 NotI oligo-dT primer used in I.M.A.G.E. library Soares NMGBC and other libraries
+2.238e-06	1	1	2	21.5	0.003317	1000004967	sequence	          gnl|uv|KC702220.1:1-771 Synthetic construct external RNA control ERCC-00131 sequence
+2.238e-06	1	1	2	5.5	0.002096	1000004956	sequence	          gnl|uv|KC702168.1:1-984 Synthetic construct external RNA control ERCC-00009 sequence
+2.238e-06	1	1	1	10	0.001082	1000004935	sequence	          gnl|uv|KC702183.1:1-1023 Synthetic construct external RNA control ERCC-00043 sequence
+2.238e-06	1	1	1	9	0.001401	1000004969	sequence	          gnl|uv|DQ883661.3:1-744 Synthetic construct external RNA control ERCC-00040 sequence
+2.238e-06	1	1	1	2	0.001011	1000004948	sequence	          gnl|uv|KC702179.1:1-1019 Synthetic construct external RNA control ERCC-00034 sequence
+2.238e-06	1	1	1	1	0.000502	1000004876	sequence	          gnl|uv|KC702209.1:1-2022 Synthetic construct external RNA control ERCC-00104 sequence
+2.238e-06	1	1	1	1	0.0009042	1000004914	sequence	          gnl|uv|KC702190.1:1-1136 Synthetic construct external RNA control ERCC-00058 sequence
